@@ -99,7 +99,7 @@ Goal:        AI/ML Developer | Machine Learning Engineer
 
 | Project | Description | Tech Stack | Link |
 |---------|--------------|------------|------|
-| ❤️ **Heart Disease Prediction** | An ML model that predicts the likelihood of heart disease based on patient health data. | `Python` `Pandas` `Scikit-learn` | [🔗 View Repo](https://github.com/YOUR_GITHUB_USERNAME/heart-disease-prediction) |
+| ❤️ **Heart Disease Prediction** | An ML model that predicts the likelihood of heart disease based on patient health data. | `Python` `Pandas` `Scikit-learn` | [🔗 View Repo](https://github.com/pattaniprinci-code/heart-dices-prediction) |
 | 📉 **Customer Churn Prediction** | Predicts whether a customer is likely to churn using classification algorithms. | `Python` `Pandas` `Scikit-learn` | [🔗 View Repo](https://github.com/YOUR_GITHUB_USERNAME/customer-churn-prediction) |
 | 🏦 **Bank Management System** | A system for managing core banking operations like accounts and transactions. | `Python` `SQL` | [🔗 View Repo](https://github.com/YOUR_GITHUB_USERNAME/bank-management-system) |
 | 🏥 **Hospital Insurance Prediction** | ML model predicting hospital/health insurance-related outcomes. | `Python` `Pandas` `Scikit-learn` | [🔗 View Repo](https://github.com/YOUR_GITHUB_USERNAME/hospital-insurance-prediction) |
