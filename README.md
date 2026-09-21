@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=Pattani%20Princy&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Developer%20%7C%20Deep%20Learning%20Enthusiast&descAlignY=58&descSize=20"/>
 
-<h1>Hi 👋, I'm Pattani Princy</h1>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=AI%2FML+Enthusiast;Machine+Learning+Developer;Python+Developer;Deep+Learning+Learner" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=AI%2FML+Enthusiast;Machine+Learning+Developer;Python+Developer;Deep+Learning+Learner" alt="Typing SVG"/>
 
 <br/>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380"/>
+&nbsp;&nbsp;
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="380"/>
 
 <br/><br/>
 
@@ -16,11 +16,17 @@
 <img src="https://img.shields.io/badge/Field-AI%20%26%20ML-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Goal-AI%2FML%20Engineer-8A2BE2?style=for-the-badge&logo=target&logoColor=white"/>
 
-</div>
-
 <br/>
 
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00F7FF&style=for-the-badge"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&section=header"/>
+
 ## 🧠 About Me
+
+<img align="right" width="320" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mch/giphy.gif"/>
 
 ```yaml
 Name:        Pattani Princy
@@ -30,37 +36,35 @@ Goal:        AI/ML Developer | Machine Learning Engineer
 ```
 
 - 🎓 I'm a **3rd-year BCA student**, currently diving deep into **Artificial Intelligence and Machine Learning**.
-- 💡 Passionate about **Python**, **Machine Learning**, and **Deep Learning**, and I love turning data into meaningful insights.
-- 🚀 I enjoy building **real-world AI/ML projects** that solve practical problems.
+- 💡 Passionate about **Python**, **Machine Learning**, and **Deep Learning** — turning raw data into meaningful insights.
+- 🚀 I love building **real-world AI/ML projects** that solve practical problems.
 - 🌱 Always curious, always learning — one model at a time.
-- 🤝 Open to collaborating on interesting ML/DL projects and learning together.
+- 🤝 Open to collaborating on interesting ML/DL projects.
 
-<br/>
+<br clear="right"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=header"/>
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
 ### 💻 Programming & Data
-
-<img src="https://skillicons.dev/icons?i=python,mysql" />
+<img src="https://skillicons.dev/icons?i=python,mysql&theme=dark"/>
 &nbsp;
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
 ### 📊 Data Visualization
-
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
 
 ### 🤖 Machine Learning
-
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supervised%20Learning-00C853?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supervised%20Learning-00C853?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Unsupervised%20Learning-FF7043?style=for-the-badge"/>
 
 ### 🧬 Deep Learning
-
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
 <img src="https://img.shields.io/badge/ANN-8A2BE2?style=for-the-badge"/>
@@ -68,14 +72,13 @@ Goal:        AI/ML Developer | Machine Learning Engineer
 <img src="https://img.shields.io/badge/RNN-FF1493?style=for-the-badge"/>
 
 ### 🧰 Tools & Frameworks
-
-<img src="https://skillicons.dev/icons?i=git,github" />
+<img src="https://skillicons.dev/icons?i=git,github&theme=dark"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=header"/>
 
 ## 🔬 Machine Learning & Deep Learning Focus
 
@@ -89,31 +92,69 @@ Goal:        AI/ML Developer | Machine Learning Engineer
 | **CNN** (Convolutional Neural Networks) | Image recognition & computer vision |
 | **RNN** (Recurrent Neural Networks) | Sequential & time-series data modeling |
 
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="420"/>
+
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=header"/>
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-| Project | Description | Tech Stack | Link |
-|---------|--------------|------------|------|
-| ❤️ **Heart Disease Prediction** | An ML model that predicts the likelihood of heart disease based on patient health data. | `Python` `Pandas` `Scikit-learn` | [🔗 View Repo](https://github.com/pattaniprinci-code/heart-dices-prediction) |
-| 📉 **Customer Churn Prediction** | Predicts whether a customer is likely to churn using classification algorithms. | `Python` `Pandas` `Scikit-learn` | [🔗 View Repo](https://github.com/YOUR_GITHUB_USERNAME/customer-churn-prediction) |
-| 🏦 **Bank Management System** | A system for managing core banking operations like accounts and transactions. | `Python` `SQL` | [🔗 View Repo](https://github.com/YOUR_GITHUB_USERNAME/bank-management-system) |
-| 🏥 **Hospital Insurance Prediction** | ML model predicting hospital/health insurance-related outcomes. | `Python` `Pandas` `Scikit-learn` | [🔗 View Repo](https://github.com/YOUR_GITHUB_USERNAME/hospital-insurance-prediction) |
+### ❤️ Heart Disease Prediction
+An ML model that predicts the likelihood of heart disease based on patient health data.
 
-</div>
+`Python` `Pandas` `Scikit-learn`
 
-<br/>
+[🔗 View Repository](https://github.com/YOUR_GITHUB_USERNAME/heart-disease-prediction)
+
+</td>
+<td width="50%" valign="top">
+
+### 📉 Customer Churn Prediction
+Predicts whether a customer is likely to churn using classification algorithms.
+
+`Python` `Pandas` `Scikit-learn`
+
+[🔗 View Repository](https://github.com/YOUR_GITHUB_USERNAME/customer-churn-prediction)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏦 Bank Management System
+A system for managing core banking operations like accounts and transactions.
+
+`Python` `SQL`
+
+[🔗 View Repository](https://github.com/YOUR_GITHUB_USERNAME/bank-management-system)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏥 Hospital Insurance Prediction
+ML model predicting hospital / health insurance-related outcomes.
+
+`Python` `Pandas` `Scikit-learn`
+
+[🔗 View Repository](https://github.com/YOUR_GITHUB_USERNAME/hospital-insurance-prediction)
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=header"/>
 
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br/>
 
@@ -123,9 +164,19 @@ Goal:        AI/ML Developer | Machine Learning Engineer
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" width="90%"/>
 
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&margin-w=15&column=6"/>
+
 </div>
 
-<br/>
+> 🐍 **Want an animated contribution snake like the one below?** Add the [platane/snk](https://github.com/Platane/snk) GitHub Action to your profile repo — it auto-generates this SVG on a schedule.
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=header"/>
 
 ## 📚 Currently Learning
 
@@ -140,13 +191,17 @@ Goal:        AI/ML Developer | Machine Learning Engineer
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=header"/>
 
 ## 🎯 Career Goals
 
+<div align="center">
+<img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="300"/>
+</div>
+
 > 🌟 My goal is to become a skilled **AI/ML Professional**, continuously strengthening my expertise in **Python, Machine Learning, and Deep Learning**, while building impactful, real-world AI solutions that make a difference.
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=header"/>
 
 ## 📫 Connect With Me
 
@@ -167,18 +222,10 @@ Goal:        AI/ML Developer | Machine Learning Engineer
 
 </div>
 
-<br/>
-
 <div align="center">
 
-### 👀 Visitor Count
+### ⭐ Thanks for visiting my profile — let's build something amazing with AI & ML! 🚀
 
-<img src="https://profile-counter.glitch.me/YOUR_GITHUB_USERNAME/count.svg" alt="Visitor Count"/>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=footer"/>
-
-**Thanks for visiting my profile! 🚀 Let's build something amazing with AI & ML.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer"/>
 
 </div>
